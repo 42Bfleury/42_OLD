@@ -1,0 +1,5 @@
+Credentials cache: API:15587
+        Principal: bfleury@42.FR
+
+  Issued                Expires               Principal
+Sep  1 20:43:50 2015  Sep  2 06:43:50 2015  krbtgt/42.FR@42.FR

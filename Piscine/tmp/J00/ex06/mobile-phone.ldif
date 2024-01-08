@@ -1,0 +1,4 @@
+dn: uid=bfleury,ou=2015,ou=paris,ou=people,dc=42,dc=fr
+changetype: modify
+add: mobile
+mobile: 06.27.39.75.23.
